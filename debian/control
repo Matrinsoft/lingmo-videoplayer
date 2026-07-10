@@ -10,7 +10,7 @@ Build-Depends:
     qt6-declarative-dev,
     qt6-base-dev, qt6-declarative-dev, libmpv-dev,
 Standards-Version: 4.6.2
-Homepage: https://github.com/lingmo-os/lingmo-videoplayer
+Homepage: https://github.com/Matrinsoft/lingmo-videoplayer
 Rules-Requires-Root: no
 
 Package: lingmo-videoplayer
